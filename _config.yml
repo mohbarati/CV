@@ -9,10 +9,10 @@ version: 2
 name: Mohammad Hossein Barati
 title: 
 email: Mohbarati14@gmail.com
-website: https://github.com/mohbarati
+# website: https://github.com/mohbarati
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  mohbarati
