@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Mohammad Hossein Barati
-title: 
+title: Curriculum Vitae
 email: Mohbarati14@gmail.com
-# website: https://github.com/mohbarati
+Contact No.: 989106180793
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hossein and I'm a physics and mathematics teacher. As well as teaching I also have experience programming in python. I have worked on computational aspect of a number of cool physics projects.
 
-  I am most interested in <mark>Computational Science</mark>
+  I am most interested in: <mark>Computational Science</mark>, <mark>Machine Learning</mark>, <mark>Computer Vision</mark>, <mark>Cognitive Science</mark>, 
 
 content:
   - title: Projects # Title for the section
@@ -108,8 +108,8 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
